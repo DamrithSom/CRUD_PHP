@@ -1,8 +1,8 @@
-📌 CRUD with PHP
+#📌 CRUD with PHP
 
 This repository contains a simple CRUD (Create, Read, Update, Delete) application built using PHP and MySQL.
 
-🚀 Features
+##🚀 Features
 
 ✅ Create new records✅ Read and display records✅ Update existing records✅ Delete records✅ MySQL database integration
 
