@@ -35,4 +35,26 @@ The structure of the project is organized as follows:
 
 This structure ensures clear separation of concerns and keeps the code organized for easy maintenance and expansion.
 
+## 🤝 Contributing
 
+Contributions are welcome! Feel free to fork the project, make your changes, and submit a pull request.
+
+To contribute:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Make your changes
+4. Commit your changes (`git commit -am 'Add new feature'`)
+5. Push to the branch (`git push origin feature-branch`)
+6. Create a new Pull Request
+
+Please ensure your code follows the project's coding standards and passes all tests before submitting a pull request.
+
+## 📜 License
+
+This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## 👨‍💻 Author
+
+Damrith Som ✨  
+Happy Coding! 🚀
